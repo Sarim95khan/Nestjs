@@ -1,0 +1,1 @@
+{"version":3,"file":"mock-user-settings.js","sourceRoot":"","sources":["../../src/mocksData/mock-user-settings.ts"],"names":[],"mappings":";;;AAAa,QAAA,gBAAgB,GAAG;IAC5B;QACI,MAAM,EAAE,CAAC;QACT,iBAAiB,EAAE,IAAI;QACvB,iBAAiB,EAAE,IAAI;KAE1B;IACD;QACI,MAAM,EAAE,CAAC;QACT,iBAAiB,EAAE,KAAK;QACxB,iBAAiB,EAAE,KAAK;KAE3B;CACJ,CAAA"}
